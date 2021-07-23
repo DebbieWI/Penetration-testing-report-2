@@ -22,7 +22,7 @@ When performing the internal penetration test, there were several alarming vulne
 # Proof of Concept:
 
 The following steps were taken during the internal penetration test exercise. 
- - A service and version scan were performed using Nmap command nmap -sV 192.168.0.20. where sV indicates service and version respectively and the later is the IP address of the target machine. By running this scan, I was aware that the Icecast server was running. 
+ - A service and version scan were performed using Nmap command nmap -sV 192.168.0.20. where sV indicates service and version respectively and the latter is the IP address of the target machine. By running this scan, I was aware that the Icecast server was running. 
   
    ![image](https://user-images.githubusercontent.com/72705930/124705760-27f11780-dec4-11eb-982d-51b4077fce20.png)
 
